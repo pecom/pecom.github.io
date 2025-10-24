@@ -13,6 +13,7 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+Full list of publications at [ADS](https://ui.adsabs.harvard.edu/search/?q=author:"Prakruth Adari").
 <div class="publications">
 
 {% bibliography %}
