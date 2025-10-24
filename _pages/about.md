@@ -31,5 +31,5 @@ Hi! I'm a cosmologist primarily focusing on galaxy blends and galaxy clusters wi
 
 I focus on **unrecognized blends** and how they impact cosmology. I've worked on detecting them with machine learning, mitigating some of the biases they induce in cosmic shear, and lead the *friendly* team to study them in a variety of science cases.
 
-With galaxy clusters, I've worked on conducting __early weak lensing measurements__ with the Vera Rubin Observatory and am interested in what they can tell us about *dark matter* and *dark energy*.
+With galaxy clusters, I've worked on conducting __early weak lensing measurements__ with the Vera Rubin Observatory and am interested in what they can tell us about dark matter and dark energy.
 
